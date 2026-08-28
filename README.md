@@ -1,5 +1,3 @@
-# Hey, I'm Utkarsh 👋
-
 ### I build things people actually use.
 
 I've worked on **production applications for clients, shipped my own apps to the Play Store, built AI-powered products, and freelanced across web and mobile development.**
