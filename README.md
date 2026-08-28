@@ -62,7 +62,7 @@ Generate structured, NCERT-aligned practice material from classes, subjects, cha
 
 I've worked on real-world products for startups and clients, across web, mobile, backend, and real-time systems.
 
-### TechizeBuilder Web Solutions
+### 1. TechizeBuilder Web Solutions
 
 **Full-Stack Developer · Sep 2025 – Jul 2026**
 
@@ -70,7 +70,7 @@ Worked on production **dating, wellness & LMS applications**, across frontend, b
 
 `React` · `Next.js` · `React Native` · `Node.js` · `MongoDB` · `PostgreSQL` · `Socket.IO`
 
-### Amora — Dating App
+### 2. Amora — Dating App
 
 **Freelance Full-Stack Developer · Jun 2025 – Aug 2025**
 
@@ -78,7 +78,7 @@ Built the **real-time chat system** and worked on backend integrations, authenti
 
 `React Native` · `Node.js` · `Socket.IO` · `MongoDB` · `Spring Boot`
 
-### Inventab — Enterprise SaaS
+### 3. Inventab — Enterprise SaaS
 
 **Freelance MERN Developer · Sep 2023 – Mar 2024**
 
@@ -86,7 +86,7 @@ Contributed to an enterprise platform spanning **CRM, SCM, HR, production & eCom
 
 `React` · `Node.js` · `MongoDB` · `REST APIs`
 
-### Gawaana
+### 4. Gawaana
 
 **Freelance MERN Developer · Jun 2023 – Dec 2023**
 
