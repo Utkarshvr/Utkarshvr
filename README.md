@@ -12,7 +12,7 @@ I've worked on **production applications for clients, shipped my own apps to the
 
 ---
 
-# 📱 Products I've Shipped
+# Products I've Shipped
 
 Not everything I build is open source.
 
@@ -104,7 +104,7 @@ Helped migrate an existing **PHP application to React**, while improving authent
 
 — **Chandra Shekhar**
 
-I am happy with the job quality and his response time.
+> **“I am happy with the job quality and his response time.”**
 
 ---
 
