@@ -44,21 +44,13 @@ AI-powered worksheet generator for students and teachers.
 
 💼 Freelance Experience
 
-TechizeBuilder Web Solutions · Full-Stack Developer
-Sep 2025 – Jul 2026
-Production dating, wellness & LMS applications.
+***1. TechizeBuilder Web Solutions*** · Full-Stack Developer | Sep 2025 – Jul 2026 
 
-Amora · Freelance Full-Stack Developer
-Jun 2025 – Aug 2025
-Built the real-time chat system and backend integrations.
+***2. Amora*** · Freelance Full-Stack Developer | Jun 2025 – Aug 2025
 
-Inventab · Freelance MERN Developer
-Sep 2023 – Mar 2024
-Enterprise SaaS covering CRM, SCM, HR, production & eCommerce.
+***3. Inventab*** · Freelance MERN Developer | Sep 2023 – Mar 2024
 
-Gawaana · Freelance MERN Developer
-Jun 2023 – Dec 2023
-Migrated a PHP application to React and improved its overall UX.
+***4. Gawaana*** · Freelance ReactJS Developer | Jun 2023 – Dec 2023
 
 --- 
 
