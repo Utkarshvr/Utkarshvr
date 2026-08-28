@@ -1,8 +1,6 @@
 # Hey, I'm Utkarsh 👋
 
-### I build things people can actually use.
-
-I'm a **Full-Stack & Mobile Developer** focused on turning ideas into real products — from the first screen in Figma to the backend, deployment, and eventually getting the app into users' hands.
+### I build things people actually use.
 
 I've worked on **production applications for clients, shipped my own apps to the Play Store, built AI-powered products, and freelanced across web and mobile development.**
 
@@ -84,80 +82,39 @@ Generate structured, NCERT-aligned practice material from classes, subjects, cha
 
 # 💼 Freelance & Production Experience
 
-I've worked on real client products where the goal wasn't simply to "write code" — it was to understand requirements, make technical decisions, solve problems, and ship.
+I've worked on real-world products for startups and clients, across web, mobile, backend, and real-time systems.
 
 ### TechizeBuilder Web Solutions
 
 **Full-Stack Developer · Sep 2025 – Jul 2026**
 
-Worked on multiple production-grade applications including dating, wellness, and LMS products.
+Worked on production **dating, wellness & LMS applications**, across frontend, backend, real-time systems, payments, and third-party integrations.
 
-I worked across:
-
-* React.js / Next.js / React Native
-* Node.js / Express.js
-* MongoDB / PostgreSQL
-* Real-time communication with Socket.IO
-* Authentication
-* Payment flows
-* Dashboards
-* Third-party API integrations
-* Client-facing technical decisions
-
-I also collaborated directly with clients to turn requirements into working product architecture and improve UI/UX and application reliability.
-
----
+`React` · `Next.js` · `React Native` · `Node.js` · `MongoDB` · `PostgreSQL` · `Socket.IO`
 
 ### Amora — Dating App
 
 **Freelance Full-Stack Developer · Jun 2025 – Aug 2025**
 
-Worked on the application's real-time communication system and backend integrations.
+Built the **real-time chat system** and worked on backend integrations, authentication, geolocation, and notifications.
 
-**React Native · Node.js · Socket.IO · MongoDB · Spring Boot · PostgreSQL**
+`React Native` · `Node.js` · `Socket.IO` · `MongoDB` · `Spring Boot`
 
-My work included:
-
-* Leading development of the real-time chat system
-* Socket.IO communication
-* MongoDB integration
-* Authentication
-* Backend integration with Spring Boot
-* Geolocation
-* Push notifications
-
----
-
-### Inventab — Enterprise ERP / SaaS
+### Inventab — Enterprise SaaS
 
 **Freelance MERN Developer · Sep 2023 – Mar 2024**
 
-Worked on an enterprise SaaS platform covering CRM, SCM, production, HR, engineering, eCommerce and service-ticket workflows.
+Contributed to an enterprise platform spanning **CRM, SCM, HR, production & eCommerce**, focusing on frontend, APIs, dashboards, and authentication.
 
-My work included:
-
-* React frontend development
-* API integration
-* Data visualization & dashboards
-* Employee attendance system
-* Authentication improvements
-* UI/UX improvements
-
----
+`React` · `Node.js` · `MongoDB` · `REST APIs`
 
 ### Gawaana
 
 **Freelance MERN Developer · Jun 2023 – Dec 2023**
 
-Migrated an existing PHP application to a modern React-based frontend.
+Helped migrate an existing **PHP application to React**, while improving authentication, APIs, UI/UX, and performance.
 
-Worked on:
-
-* React migration
-* Authentication
-* API integration
-* UI/UX improvements
-* Performance optimization
+`React` · `Node.js` · `MongoDB` · `PHP`
 
 ---
 
