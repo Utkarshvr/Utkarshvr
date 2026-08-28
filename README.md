@@ -12,95 +12,61 @@ I've worked on **production applications for clients, shipped my own apps to the
 
 ---
 
-# Products I've Shipped
+## 🚀 Products I've Shipped
 
 Not everything I build is open source.
-
-Some of my projects are commercial products, so their application source code remains private. What matters to me is shipping the **actual product** — not just pushing another repository.
+Some are commercial products, so source code remains private. 
 
 ### 🎥 Teleprompter — For Creators
+Production mobile app for creators to record naturally while reading scripts.
 
-A production mobile app built for creators who want to record naturally while reading their scripts.
+`React Native` · `Expo` · `Supabase`
 
-Features include customizable scrolling, font controls, portrait/landscape support, and cloud syncing for scripts.
-
-**React Native · Expo · Supabase**
-
-→ [Get it on Google Play](https://play.google.com/store/apps/details?id=com.utkarshh.teleprompter)
-
----
+→ [Google Play](https://play.google.com/store/apps/details?id=com.utkarshh.teleprompter)
 
 ### 💰 BudgetWise
+Personal finance app for tracking spending, managing budgets, and building better financial habits.
 
-A personal finance app designed around a simple idea:
+`React Native` · `Expo` · `Supabase`
 
-> **Managing your money shouldn't feel like managing a spreadsheet.**
-
-BudgetWise lets users track income and expenses, allocate money into categories, reserve funds, and understand their spending patterns.
-
-**React Native · Expo · TypeScript · Supabase**
-
-→ [Get it on Google Play](https://play.google.com/store/apps/details?id=com.utkarshh.budgetwise)
-
----
+→ [Google Play](https://play.google.com/store/apps/details?id=com.utkarshh.budgetwise)
 
 ### 🤖 NCERTSheets AI
+AI-powered worksheet generator for students and teachers.
 
-An AI-powered worksheet generator designed for students and teachers.
+`Next.js` · `Supabase` · `Tailwind` · `AI`
 
-Generate structured, NCERT-aligned practice material from classes, subjects, chapters, or uploaded question papers — including different question types and answer keys.
+→ [Try it](https://ncertsheets-ai.vercel.app)
 
-**Next.js · Supabase · Tailwind · AI · Razorpay**
-
-→ [Try NCERTSheets AI](https://ncertsheets-ai.vercel.app/)
+> 🔒 Commercial app source code is kept private.
 
 ---
 
-# 💼 Freelance & Production Experience
+💼 Freelance Experience
 
-I've worked on real-world products for startups and clients, across web, mobile, backend, and real-time systems.
+TechizeBuilder Web Solutions · Full-Stack Developer
+Sep 2025 – Jul 2026
+Production dating, wellness & LMS applications.
 
-### 1. TechizeBuilder Web Solutions
+Amora · Freelance Full-Stack Developer
+Jun 2025 – Aug 2025
+Built the real-time chat system and backend integrations.
 
-**Full-Stack Developer · Sep 2025 – Jul 2026**
+Inventab · Freelance MERN Developer
+Sep 2023 – Mar 2024
+Enterprise SaaS covering CRM, SCM, HR, production & eCommerce.
 
-Worked on production **dating, wellness & LMS applications**, across frontend, backend, real-time systems, payments, and third-party integrations.
-
-`React` · `Next.js` · `React Native` · `Node.js` · `MongoDB` · `PostgreSQL` · `Socket.IO`
-
-### 2. Amora — Dating App
-
-**Freelance Full-Stack Developer · Jun 2025 – Aug 2025**
-
-Built the **real-time chat system** and worked on backend integrations, authentication, geolocation, and notifications.
-
-`React Native` · `Node.js` · `Socket.IO` · `MongoDB` · `Spring Boot`
-
-### 3. Inventab — Enterprise SaaS
-
-**Freelance MERN Developer · Sep 2023 – Mar 2024**
-
-Contributed to an enterprise platform spanning **CRM, SCM, HR, production & eCommerce**, focusing on frontend, APIs, dashboards, and authentication.
-
-`React` · `Node.js` · `MongoDB` · `REST APIs`
-
-### 4. Gawaana
-
-**Freelance MERN Developer · Jun 2023 – Dec 2023**
-
-Helped migrate an existing **PHP application to React**, while improving authentication, APIs, UI/UX, and performance.
-
-`React` · `Node.js` · `MongoDB` · `PHP`
+Gawaana · Freelance MERN Developer
+Jun 2023 – Dec 2023
+Migrated a PHP application to React and improved its overall UX.
 
 --- 
 
 # 💬 What People I've Worked With Say
 
-> **“Utkarsh possesses exceptional problem-solving skills and is the best MERN Stack developer I've had the pleasure of working with.”**
-
 — **Bhushan Patil**, Inventab / Wikitek
 
-> **“He excels in both backend and frontend development, making him a versatile and indispensable team member.”**
+> **“Utkarsh possesses exceptional problem-solving skills and is the best MERN Stack developer I've had the pleasure of working with.”**
 
 — **Chandra Shekhar**
 
