@@ -14,28 +14,6 @@ I've worked on **production applications for clients, shipped my own apps to the
 
 ---
 
-## 🚀 What I Do
-
-I enjoy working across the entire stack rather than being limited to one layer.
-
-### Frontend & Mobile
-
-`React` · `Next.js` · `React Native` · `Expo` · `TypeScript`
-
-### Backend
-
-`Node.js` · `Express.js` · `MongoDB` · `PostgreSQL`
-
-### Product & Infrastructure
-
-`Supabase` · `Socket.IO` · `Cloudinary` · `Razorpay` · `Git`
-
-### AI
-
-`LLM APIs` · `Dialogflow` · `AI-powered applications`
-
----
-
 # 📱 Products I've Shipped
 
 Not everything I build is open source.
@@ -116,58 +94,7 @@ Helped migrate an existing **PHP application to React**, while improving authent
 
 `React` · `Node.js` · `MongoDB` · `PHP`
 
----
-
-# 🧠 Some Things I've Built
-
-| Project                | What it demonstrates                                 |
-| ---------------------- | ---------------------------------------------------- |
-| 🎥 **Teleprompter**    | Shipping & monetizing a production mobile product    |
-| 💰 **BudgetWise**      | Product development & fintech-style workflows        |
-| 🤖 **NCERTSheets AI**  | AI + SaaS + payments                                 |
-| 🎬 **Watchify**        | Full-stack mobile + backend architecture             |
-| 💬 **EPS Chatbot**     | Conversational AI + real-world deployment            |
-| 📸 **Instagram Clone** | Auth + real-time social features                     |
-| 💬 **Messenger**       | Mobile messaging + backend + real-time communication |
-| ▶️ **YouTube Clone**   | React + API-driven application                       |
-
----
-
-# 🏫 One of My Earlier Projects
-
-### EPS School Chatbot
-
-An AI chatbot I built for my school using **React Native, Expo and Dialogflow**.
-
-It was designed to answer common school-related questions through a conversational interface.
-
-Unlike a typical tutorial project, this was built around an actual environment and real user requirements.
-
-**Open Source · React Native · Dialogflow**
-
-→ [View Source Code](https://github.com/Utkarshvr/eps-chatbot-dialogflow)
-
----
-
-# 🛠️ My Approach
-
-I don't particularly enjoy building projects just to say:
-
-> *"I know React."*
-
-I prefer building things where there is an actual problem to solve.
-
-That means thinking about:
-
-**UX → Architecture → APIs → Data → Edge Cases → Deployment → Users**
-
-Sometimes that means a 2-day experiment.
-
-Sometimes it's a months-long client project.
-
-Sometimes it's an app that ends up on the Play Store.
-
----
+--- 
 
 # 💬 What People I've Worked With Say
 
@@ -177,26 +104,9 @@ Sometimes it's an app that ends up on the Play Store.
 
 > **“He excels in both backend and frontend development, making him a versatile and indispensable team member.”**
 
-— **Bhushan Patil**
+— **Chandra Shekhar**
 
-I value the ability to work independently, communicate with clients, and take ownership of a feature from idea to implementation.
-
----
-
-# 📊 GitHub
-
-I keep a mix of:
-
-* 🧪 Experiments
-* 🚀 Full-stack applications
-* 📱 React Native projects
-* 🤖 AI projects
-* 🛠️ Open-source projects
-* 🧩 Smaller utilities & experiments
-
-Some of my commercial products are intentionally **private**.
-
-The code being private doesn't mean the work is invisible — you can explore the products and case studies through my portfolio.
+I am happy with the job quality and his response time.
 
 ---
 
